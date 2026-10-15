@@ -25,6 +25,7 @@ Every non-trivial choice for this project is recorded here, one file per decisio
 | [010](010-self-hosted-fonts-and-icons.md) | Self-hosted fonts and bundled icons | Accepted | 2026-10-15 |
 | [011](011-profile-content-no-invented-data.md) | Profile content from profile.yaml; nothing invented | Accepted | 2026-10-15 |
 | [012](012-automated-code-review-hooks.md) | Automated code review: FileChanged hook wakes a live, project-local subagent | Accepted | 2026-10-15 |
+| [013](013-github-mcp-server.md) | GitHub MCP server, project-scoped, token from the environment | Accepted | 2026-10-15 |
 
 ## Template
 

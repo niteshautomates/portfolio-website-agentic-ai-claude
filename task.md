@@ -55,6 +55,11 @@ Review automation built and verified headlessly (ADR-012). Needs a `/hooks` + `/
 - [x] RV-07 Subagent quality test on a probe file
 - [~] RV-08 README section done; remaining user step: open `/hooks` (or restart) and `/agents` so this interactive session loads the new hooks and subagent. Headless end-to-end already passed (see ADR-012 verification).
 
+## Tooling: GitHub MCP (ADR-013)
+- [x] MCP-01 `.mcp.json` github server, token via `${GITHUB_TOKEN}` (on `develop`)
+- [x] MCP-02 ADR-013, README section (branch `feature/mcp`)
+- [ ] MCP-03 PR `feature/mcp` into `develop`, user review and merge
+
 ## Phase 2: Backend and database
 - [ ] P2-01 FastAPI skeleton in `backend/` with `/api/health`
 - [ ] P2-02 Postgres service and Alembic migrations (compose profile)
