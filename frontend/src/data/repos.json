@@ -1,0 +1,429 @@
+[
+  {
+    "name": "ai-powered-jenkins-pipeline-generator",
+    "title": "AI-Powered Jenkins Pipeline Generator",
+    "summary": "Multi-agent, multi-modal generator built on the Anthropic SDK with Langfuse tracing that produces Jenkins pipelines.",
+    "tags": [
+      "AI",
+      "Jenkins",
+      "Python",
+      "CI/CD"
+    ],
+    "language": "Python",
+    "url": "https://github.com/niteshautomates/ai-powered-jenkins-pipeline-generator",
+    "homepage": null,
+    "stars": 0,
+    "featured": true,
+    "updatedAt": "2026-10-09T12:52:26Z"
+  },
+  {
+    "name": "ai-powered-github-actions-generator",
+    "title": "AI-Powered GitHub Actions Generator",
+    "summary": "Multi-agent generator (Anthropic SDK + Langfuse) that produces GitHub Actions workflows.",
+    "tags": [
+      "AI",
+      "GitHub Actions",
+      "Python",
+      "CI/CD"
+    ],
+    "language": "Python",
+    "url": "https://github.com/niteshautomates/ai-powered-github-actions-generator",
+    "homepage": null,
+    "stars": 0,
+    "featured": true,
+    "updatedAt": "2026-10-09T12:51:20Z"
+  },
+  {
+    "name": "ultimate-devops-project",
+    "title": "Ultimate DevOps Project",
+    "summary": "End-to-end DevOps project with infrastructure as code and delivery automation.",
+    "tags": [
+      "DevOps",
+      "Terraform",
+      "IaC"
+    ],
+    "language": "HCL",
+    "url": "https://github.com/niteshautomates/ultimate-devops-project",
+    "homepage": null,
+    "stars": 0,
+    "featured": true,
+    "updatedAt": "2025-08-22T16:40:04Z"
+  },
+  {
+    "name": "production-microservices",
+    "title": "Production Microservices",
+    "summary": "Java microservices set up for production-style deployment.",
+    "tags": [
+      "Java",
+      "Microservices"
+    ],
+    "language": "Java",
+    "url": "https://github.com/niteshautomates/production-microservices",
+    "homepage": null,
+    "stars": 0,
+    "featured": true,
+    "updatedAt": "2025-05-13T20:42:26Z"
+  },
+  {
+    "name": "3-Tier-Python-Postgres",
+    "title": "3-Tier Python + Postgres App",
+    "summary": "Three-tier application with a Python backend and a Postgres database.",
+    "tags": [
+      "Python",
+      "PostgreSQL",
+      "3-Tier"
+    ],
+    "language": "HTML",
+    "url": "https://github.com/niteshautomates/3-Tier-Python-Postgres",
+    "homepage": null,
+    "stars": 0,
+    "featured": true,
+    "updatedAt": "2025-05-14T18:16:00Z"
+  },
+  {
+    "name": "terraform_advanced",
+    "title": "Advanced Terraform",
+    "summary": "Advanced Terraform patterns and modules.",
+    "tags": [
+      "Terraform",
+      "IaC"
+    ],
+    "language": "HCL",
+    "url": "https://github.com/niteshautomates/terraform_advanced",
+    "homepage": null,
+    "stars": 0,
+    "featured": true,
+    "updatedAt": "2025-09-20T19:35:01Z"
+  },
+  {
+    "name": "aws_vpc_demo",
+    "title": "AWS VPC with Terraform",
+    "summary": "AWS VPC networking provisioned with Terraform.",
+    "tags": [
+      "AWS",
+      "Terraform",
+      "Networking"
+    ],
+    "language": "HCL",
+    "url": "https://github.com/niteshautomates/aws_vpc_demo",
+    "homepage": null,
+    "stars": 0,
+    "featured": true,
+    "updatedAt": "2025-10-27T12:25:16Z"
+  },
+  {
+    "name": "opentelemetry-catalog",
+    "title": "OpenTelemetry Catalog",
+    "summary": "Catalog of OpenTelemetry observability examples.",
+    "tags": [
+      "Observability",
+      "OpenTelemetry"
+    ],
+    "language": "TypeScript",
+    "url": "https://github.com/niteshautomates/opentelemetry-catalog",
+    "homepage": null,
+    "stars": 0,
+    "featured": true,
+    "updatedAt": "2026-01-26T17:51:29Z"
+  },
+  {
+    "name": "agentic-ai-roadmap",
+    "title": "agentic-ai-roadmap",
+    "summary": "",
+    "tags": [],
+    "language": "Python",
+    "url": "https://github.com/niteshautomates/agentic-ai-roadmap",
+    "homepage": null,
+    "stars": 0,
+    "featured": false,
+    "updatedAt": "2026-09-12T09:40:46Z"
+  },
+  {
+    "name": "starbuck-clone",
+    "title": "starbuck-clone",
+    "summary": "",
+    "tags": [],
+    "language": "JavaScript",
+    "url": "https://github.com/niteshautomates/starbuck-clone",
+    "homepage": null,
+    "stars": 0,
+    "featured": false,
+    "updatedAt": "2026-04-05T12:12:30Z"
+  },
+  {
+    "name": "python-programming",
+    "title": "python-programming",
+    "summary": "",
+    "tags": [],
+    "language": "Python",
+    "url": "https://github.com/niteshautomates/python-programming",
+    "homepage": null,
+    "stars": 0,
+    "featured": false,
+    "updatedAt": "2025-11-06T17:49:48Z"
+  },
+  {
+    "name": "githubactionsdemo",
+    "title": "githubactionsdemo",
+    "summary": "",
+    "tags": [],
+    "language": null,
+    "url": "https://github.com/niteshautomates/githubactionsdemo",
+    "homepage": null,
+    "stars": 0,
+    "featured": false,
+    "updatedAt": "2025-08-31T19:56:15Z"
+  },
+  {
+    "name": "interview-docs",
+    "title": "interview-docs",
+    "summary": "",
+    "tags": [],
+    "language": null,
+    "url": "https://github.com/niteshautomates/interview-docs",
+    "homepage": null,
+    "stars": 0,
+    "featured": false,
+    "updatedAt": "2025-07-16T18:53:19Z"
+  },
+  {
+    "name": "terraform_scripts",
+    "title": "terraform_scripts",
+    "summary": "",
+    "tags": [],
+    "language": "HCL",
+    "url": "https://github.com/niteshautomates/terraform_scripts",
+    "homepage": null,
+    "stars": 0,
+    "featured": false,
+    "updatedAt": "2025-07-03T19:16:38Z"
+  },
+  {
+    "name": "aws-provisioning-boto3",
+    "title": "aws-provisioning-boto3",
+    "summary": "",
+    "tags": [],
+    "language": "Python",
+    "url": "https://github.com/niteshautomates/aws-provisioning-boto3",
+    "homepage": null,
+    "stars": 0,
+    "featured": false,
+    "updatedAt": "2025-06-24T18:27:50Z"
+  },
+  {
+    "name": "bash-scripting",
+    "title": "bash-scripting",
+    "summary": "",
+    "tags": [],
+    "language": "Shell",
+    "url": "https://github.com/niteshautomates/bash-scripting",
+    "homepage": null,
+    "stars": 0,
+    "featured": false,
+    "updatedAt": "2025-06-22T17:54:18Z"
+  },
+  {
+    "name": "flask_micro_app",
+    "title": "flask_micro_app",
+    "summary": "",
+    "tags": [],
+    "language": "HTML",
+    "url": "https://github.com/niteshautomates/flask_micro_app",
+    "homepage": null,
+    "stars": 0,
+    "featured": false,
+    "updatedAt": "2025-05-29T18:45:42Z"
+  },
+  {
+    "name": "multi-branch-microservice",
+    "title": "multi-branch-microservice",
+    "summary": "",
+    "tags": [],
+    "language": null,
+    "url": "https://github.com/niteshautomates/multi-branch-microservice",
+    "homepage": null,
+    "stars": 0,
+    "featured": false,
+    "updatedAt": "2025-05-24T15:17:58Z"
+  },
+  {
+    "name": "Boardgame",
+    "title": "Boardgame",
+    "summary": "",
+    "tags": [],
+    "language": "HTML",
+    "url": "https://github.com/niteshautomates/Boardgame",
+    "homepage": null,
+    "stars": 0,
+    "featured": false,
+    "updatedAt": "2025-05-19T20:38:55Z"
+  },
+  {
+    "name": "Chat-App",
+    "title": "Chat-App",
+    "summary": "",
+    "tags": [],
+    "language": "HTML",
+    "url": "https://github.com/niteshautomates/Chat-App",
+    "homepage": null,
+    "stars": 0,
+    "featured": false,
+    "updatedAt": "2025-05-18T18:23:19Z"
+  },
+  {
+    "name": "ratings-service",
+    "title": "ratings-service",
+    "summary": "",
+    "tags": [],
+    "language": "Java",
+    "url": "https://github.com/niteshautomates/ratings-service",
+    "homepage": null,
+    "stars": 0,
+    "featured": false,
+    "updatedAt": "2025-05-17T13:44:31Z"
+  },
+  {
+    "name": "hotel-service",
+    "title": "hotel-service",
+    "summary": "",
+    "tags": [],
+    "language": "Java",
+    "url": "https://github.com/niteshautomates/hotel-service",
+    "homepage": null,
+    "stars": 0,
+    "featured": false,
+    "updatedAt": "2025-05-17T11:01:55Z"
+  },
+  {
+    "name": "user-service",
+    "title": "user-service",
+    "summary": "",
+    "tags": [],
+    "language": "Java",
+    "url": "https://github.com/niteshautomates/user-service",
+    "homepage": null,
+    "stars": 0,
+    "featured": false,
+    "updatedAt": "2025-05-16T07:28:37Z"
+  },
+  {
+    "name": "Multistage-Dockerfile",
+    "title": "Multistage-Dockerfile",
+    "summary": "",
+    "tags": [],
+    "language": "Java",
+    "url": "https://github.com/niteshautomates/Multistage-Dockerfile",
+    "homepage": null,
+    "stars": 0,
+    "featured": false,
+    "updatedAt": "2025-05-08T11:17:43Z"
+  },
+  {
+    "name": "NodeJs-Jest",
+    "title": "NodeJs-Jest",
+    "summary": "",
+    "tags": [],
+    "language": "JavaScript",
+    "url": "https://github.com/niteshautomates/NodeJs-Jest",
+    "homepage": null,
+    "stars": 0,
+    "featured": false,
+    "updatedAt": "2025-05-04T12:31:44Z"
+  },
+  {
+    "name": "javascript_tutorials",
+    "title": "javascript_tutorials",
+    "summary": "",
+    "tags": [],
+    "language": "JavaScript",
+    "url": "https://github.com/niteshautomates/javascript_tutorials",
+    "homepage": null,
+    "stars": 0,
+    "featured": false,
+    "updatedAt": "2024-06-27T13:49:53Z"
+  },
+  {
+    "name": "python_basics",
+    "title": "python_basics",
+    "summary": "",
+    "tags": [],
+    "language": "Python",
+    "url": "https://github.com/niteshautomates/python_basics",
+    "homepage": null,
+    "stars": 0,
+    "featured": false,
+    "updatedAt": "2024-06-14T10:26:38Z"
+  },
+  {
+    "name": "linux-for-devops",
+    "title": "linux-for-devops",
+    "summary": "",
+    "tags": [],
+    "language": "Shell",
+    "url": "https://github.com/niteshautomates/linux-for-devops",
+    "homepage": null,
+    "stars": 0,
+    "featured": false,
+    "updatedAt": "2024-06-08T18:21:12Z"
+  },
+  {
+    "name": "kubernetes",
+    "title": "kubernetes",
+    "summary": "",
+    "tags": [],
+    "language": "Shell",
+    "url": "https://github.com/niteshautomates/kubernetes",
+    "homepage": null,
+    "stars": 0,
+    "featured": false,
+    "updatedAt": "2024-03-17T19:14:31Z"
+  },
+  {
+    "name": "docker",
+    "title": "docker",
+    "summary": "docker tutorials artifacts",
+    "tags": [],
+    "language": "HTML",
+    "url": "https://github.com/niteshautomates/docker",
+    "homepage": null,
+    "stars": 0,
+    "featured": false,
+    "updatedAt": "2024-03-15T12:03:43Z"
+  },
+  {
+    "name": "chef_scripts",
+    "title": "chef_scripts",
+    "summary": "",
+    "tags": [],
+    "language": null,
+    "url": "https://github.com/niteshautomates/chef_scripts",
+    "homepage": null,
+    "stars": 0,
+    "featured": false,
+    "updatedAt": "2024-02-12T18:24:40Z"
+  },
+  {
+    "name": "Test-Automation--Maven--POM-Java-Framework",
+    "title": "Test-Automation--Maven--POM-Java-Framework",
+    "summary": "",
+    "tags": [],
+    "language": "Java",
+    "url": "https://github.com/niteshautomates/Test-Automation--Maven--POM-Java-Framework",
+    "homepage": null,
+    "stars": 0,
+    "featured": false,
+    "updatedAt": "2023-07-14T17:56:30Z"
+  },
+  {
+    "name": "nitesh2611-devops-class",
+    "title": "nitesh2611-devops-class",
+    "summary": "",
+    "tags": [],
+    "language": "Python",
+    "url": "https://github.com/niteshautomates/nitesh2611-devops-class",
+    "homepage": null,
+    "stars": 0,
+    "featured": false,
+    "updatedAt": "2020-11-16T04:03:46Z"
+  }
+]

@@ -1,0 +1,46 @@
+# Curated project list. Source of truth for Phase 1 (see decisions/002).
+# `npm run fetch:github` (in frontend/) merges this with live GitHub metadata.
+
+owner: niteshautomates
+
+# Repos shown first, in this order. title/summary/tags override the GitHub data.
+# Shortlist is a proposal: edit freely.
+featured:
+  - repo: ai-powered-jenkins-pipeline-generator
+    title: AI-Powered Jenkins Pipeline Generator
+    summary: Multi-agent, multi-modal generator built on the Anthropic SDK with Langfuse tracing that produces Jenkins pipelines.
+    tags: [AI, Jenkins, Python, CI/CD]
+  - repo: ai-powered-github-actions-generator
+    title: AI-Powered GitHub Actions Generator
+    summary: Multi-agent generator (Anthropic SDK + Langfuse) that produces GitHub Actions workflows.
+    tags: [AI, GitHub Actions, Python, CI/CD]
+  - repo: ultimate-devops-project
+    title: Ultimate DevOps Project
+    summary: End-to-end DevOps project with infrastructure as code and delivery automation.
+    tags: [DevOps, Terraform, IaC]
+  - repo: production-microservices
+    title: Production Microservices
+    summary: Java microservices set up for production-style deployment.
+    tags: [Java, Microservices]
+  - repo: 3-Tier-Python-Postgres
+    title: 3-Tier Python + Postgres App
+    summary: Three-tier application with a Python backend and a Postgres database.
+    tags: [Python, PostgreSQL, 3-Tier]
+  - repo: terraform_advanced
+    title: Advanced Terraform
+    summary: Advanced Terraform patterns and modules.
+    tags: [Terraform, IaC]
+  - repo: aws_vpc_demo
+    title: AWS VPC with Terraform
+    summary: AWS VPC networking provisioned with Terraform.
+    tags: [AWS, Terraform, Networking]
+  - repo: opentelemetry-catalog
+    title: OpenTelemetry Catalog
+    summary: Catalog of OpenTelemetry observability examples.
+    tags: [Observability, OpenTelemetry]
+
+# Never shown, even though they are non-forks (profile repo, empty exercises).
+hidden:
+  - niteshautomates
+  - hello-world
+  - skills-hello-github-actions

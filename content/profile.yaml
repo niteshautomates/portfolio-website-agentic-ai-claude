@@ -1,0 +1,84 @@
+# Personal details for Hero / About / Skills / Contact. Placeholders marked TODO need your input.
+
+name: Nitesh Wayafalkar
+role: Lead DevOps Engineer
+company: Allianz Technologies
+location: Pune, India
+tagline: I build and automate cloud infrastructure, CI/CD pipelines and AI-assisted developer tooling.
+about:
+  - Lead DevOps Engineer at Allianz Technologies, based in Pune. AWS EKS Kubernetes Expert | GitOps Automation | 11+ Years IT | AWS Certified Professional
+  - I work across Terraform, Kubernetes, Docker, CI/CD and cloud platforms, and experiment with AI agents that generate pipelines.
+
+skills:
+  Cloud & IaC: [AWS, Azure, Terraform, Chef, Ansible, Packer]
+  Containers & Orchestration: [Docker, Kubernetes, AKS]
+  CI/CD: [Jenkins, GitHub Actions]
+  Languages: [Python, Java, Bash, JavaScript, TypeScript]
+  Observability & AI: [OpenTelemetry, Langfuse, Anthropic SDK]
+
+links:
+  github: https://github.com/niteshautomates
+  linkedin: "https://www.linkedin.com/in/niteshwayafalkar"   # TODO
+  email: "nitesh.wayafalkar@yahoo.com"      # TODO public contact email (shown on the site)
+  phone: ""   # TODO your public mobile number with country code, e.g. +91 98765 43210. Shown publicly (page and JS bundle); leave empty to hide the Call button.
+
+# Lines starting with "$ " are typed as commands; other lines appear as output (decisions/011).
+terminal:
+  - "$ whoami"
+  - "nitesh — lead devops engineer"
+  - "$ cat ~/stack.txt"
+  - "terraform · kubernetes · docker · jenkins · github-actions"
+  - "$ ls ~/projects | head -3"
+  - "ai-pipeline-generators  terraform-modules  microservices"
+  - "$ echo $MISSION"
+  - "automate everything. ship reliably."
+
+# Optional: shown as a stat only when set. TODO add your real number.
+# yearsExperience: 0
+
+# Timeline (newest first). Only the role below is a known fact; add real entries and dates.
+experience:
+  - role: Lead DevOps Engineer
+    company: Tech SMCSQUARED Pvt Ltd
+    period: Present
+    summary: |-
+      Migrated 400+ repositories and 1,200+ Azure pipelines to GitHub Actions with reusable workflows.
+      Built Azure and AWS infrastructure with Terraform and delivered zero-downtime database migrations.
+      Led EKS/AKS upgrades and created AI-powered automation to accelerate migrations.
+  - role: Senior DevOps Engineer
+    company: Epam Systems
+    period: Feb 2022 - Dec 2025
+    summary: |-
+      Managed AWS EKS/ECR workloads, persistent storage, and secure service accounts.
+      ○ Applied least-privilege AWS IAM and used DynamoDB for low-latency financial transactions and sessions.
+      ○ Built Packer images and provisioned infrastructure with Terraform and Ansible.
+      ○ Delivered Kubernetes applications through GitHub Actions and ArgoCD GitOps.
+      ○ Integrated OWASP, Trivy, and SonarQube security scans into CI/CD.
+      ○ Secured microservices with Kubernetes Ingress and AWS Load Balancers.
+      ○ Partnered with developers to ship production features and fixes.
+      ○ Used Kibana for log analysis and Grafana for real-time monitoring.
+  - role: Cloud QA
+    company: Cerence Service Pvt Ltd Pune
+    period: May 2020 - Feb 2022
+    summary: |-
+      Managed highly available AWS EKS clusters, using Cluster Autoscaler to scale nodes based on real-time workload demands and optimize resource usage.
+      ○ Built and maintained Jenkins CI/CD pipelines, streamlining deployments and reducing manual errors.
+      ○ Automated provisioning of AWS infrastructure (EC2, RDS, S3, and IAM) with Terraform for consistent, scalable environments.
+      ○ Deployed and monitored Kubernetes workloads with Helm, Prometheus, and Grafana to ensure reliability and performance.
+      ○ Improved release speed and uptime by optimizing pipelines and integrating proactive alerts with CloudWatch.
+      ○ Collaborated with development and QA teams to resolve issues, implement security best practices, and maintain production readiness.
+  - role: Software Development Engineer in Test
+    company: Barclays
+    period: October 2018 - April 2020
+    summary: >-
+      Integrated Selenium, RestAssured, and Cucumber test automation frameworks into GitLab CI/CD pipelines. Deployed QA environments on AWS EC2 and used Grafana and Kibana monitoring to investigate issues and identify root causes.
+  - role: QA Engineer
+    company: Sigma Systems
+    period: December 2017 - September 2018
+    summary: >-
+      Performed smoke, functional, regression, and end-to-end integration testing using Selenium WebDriver with TypeScript and BDD frameworks.
+  - role: Associate Test Analyst
+    company: Savy Software Private Limited
+    period: October 2015 - December 2017
+    summary: >-
+      Created customized XPath expressions and implemented the Page Object Model (POM) to build and maintain automated tests.

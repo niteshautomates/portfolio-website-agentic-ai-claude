@@ -1,0 +1,22 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# node / frontend
+node_modules/
+frontend/dist/
+
+# python / backend (Phase 2)
+__pycache__/
+*.pyc
+.venv/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Claude Code local review output and personal overrides
+.claude/reviews/
+.claude/settings.local.json
