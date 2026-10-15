@@ -39,6 +39,9 @@ npm run build && npm run lint
 ## Secrets
 `.env` holds real values and is git-ignored. `.env.example` is committed and must stay free of real values.
 
+## GitHub MCP server (decisions/013)
+`.mcp.json` registers the `github` MCP server (`https://api.githubcopilot.com/mcp/`) for this repo. It reads `GITHUB_TOKEN` from your shell environment, so export it before starting Claude Code. Use a fine-grained token limited to this repo (Contents and Pull requests: read/write). Never put the token in `.mcp.json` or `.env.example`.
+
 ## Review automation (decisions/012)
 A `FileChanged` hook watches source, infra and docs files. When files change it waits for a 20s quiet window, then wakes Claude with one batched request, and Claude runs the read-only `code-reviewer` subagent (`.claude/agents/code-reviewer.md`) against SOLID and SDLC checks. Reports are saved to `.claude/reviews/` (git-ignored). Only HIGH findings are auto-fixed.
 
